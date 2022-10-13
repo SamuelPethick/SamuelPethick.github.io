@@ -1,0 +1,37 @@
+
+body {background-color:white;}
+
+/*This CSS is to format my title*/
+#SamuelPethick {color:black; 
+ text-align:center; 
+ border-style:hidden; 
+ border-radius:15px; 
+ background-color:#00bfff;
+ }
+
+/*This CSS formats my link block*/
+#RelLink {
+ list-style-type: none;
+ margin: 10px;
+ padding: 10px;
+ border-style: hidden;
+ border-radius: 5px;
+ width: 150px;
+ background-color: #008000;
+ }
+ 
+/*This CSS formats my Subheadings and Gives them stylish borders*/
+h3.subhead {colour:black;
+ border-style: hidden; 
+ border-radius: 15px;
+ background-color: #00bfff;
+ padding-left: 15px;
+ width: 300px;
+ }
+
+/*This CSS makes all my paragraphs conform to a certain width to keep it from looking weird*/
+p {width:500px;}
+
+h2 {color:black; text-align:center; text-weight:normal;}
+
+#SamuelPethick 
