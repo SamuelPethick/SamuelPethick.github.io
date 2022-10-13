@@ -8,7 +8,7 @@ body {background-color:white;}
  background-color:#00bfff;
  }
 
-/*This CSS formats my link block*/
+/*This CSS formats my NavBar, same CSS for both pages*/
 #RelLink {
  list-style-type: none;
  margin: 10px;
@@ -27,7 +27,7 @@ body {background-color:white;}
  padding-left: 15px;
  width: 300px;
  }
- /* This CSS formats my second page subheadings to follow the same style as page 1's except that they are centered*/
+ /* This CSS formats my second page subheadings, given a different class to allow quick edits without effecting the whole website*/
  .P2subhead {colour:black;
  border-style: hidden; 
  border-radius: 15px;
@@ -45,7 +45,7 @@ h2 {color:black; text-align:center; text-weight:normal;}
 
 /* Image CSS Area*/
 
-/*Lindsay Google Map*/
+/*Lindsay Google Map dimensions set to source resolution*/
 
 #Lindsay{
 	height=500px;
@@ -57,7 +57,7 @@ h2 {color:black; text-align:center; text-weight:normal;}
 	width=840px;
 }
 
-#Castle{
-	height=640px;
-	width=640px;
+#Fleming{
+	height=600px;
+	width=720px;
 }
