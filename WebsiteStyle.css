@@ -21,17 +21,44 @@ body {background-color:white;}
  }
  
 /*This CSS formats my Subheadings and Gives them stylish borders*/
-h3.subhead {colour:black;
+.subhead {colour:black;
  border-style: hidden; 
  border-radius: 15px;
  background-color: #00bfff;
  padding-left: 15px;
  width: 300px;
  }
+ /* This CSS formats my second page subheadings to follow the same style as page 1's except that they are centered*/
+ .P2subhead {colour:black;
+ border-style: hidden; 
+ border-radius: 15px;
+ background-color: #00bfff;
+ padding-left: 15px;
+ width: 300px;
+ text-align: center:
+ }
 
 /*This CSS makes all my paragraphs conform to a certain width to keep it from looking weird*/
 p {width:500px;}
 
+/* This CSS gives my category titles standard characteristics to give my document order*/
 h2 {color:black; text-align:center; text-weight:normal;}
 
-#SamuelPethick 
+/* Image CSS Area*/
+
+/*Lindsay Google Map*/
+
+Lindsay{
+	height=500px;
+	width=640px;
+}
+
+Carleton{
+	height=840px;
+	width=840px;
+}
+
+Castle{
+	height=640px;
+	width=640px;
+}
