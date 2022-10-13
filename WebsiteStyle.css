@@ -41,7 +41,7 @@ body {background-color:white;}
 p {width:500px;}
 
 /* This CSS gives my category titles standard characteristics to give my document order*/
-h2 {color:black; text-align:center; text-weight:bold;}
+h2 {color:black; text-align:center; font-weight:normal;}
 
 /* Image CSS Area*/
 
