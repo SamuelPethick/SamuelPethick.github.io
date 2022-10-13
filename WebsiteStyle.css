@@ -8,7 +8,7 @@ body {background-color:white;}
  background-color:#00bfff;
  }
 
-/*This CSS formats my NavBar, same CSS for both pages, it displays a list in a green box with a rounded border*/
+/* Option1: This CSS formats my NavBar, same CSS for both pages, it displays a list in a green box with a rounded border*/
 #RelLink {
  list-style-type: none;
  margin: 10px;
@@ -19,7 +19,7 @@ body {background-color:white;}
  background-color: #008000;
  }
  
- /* This CSS styles my URLS to my places of education and work*/
+ /* Option 2: This CSS styles my URLS to my places of education and work, displays them as red to better contrast its blue background*/
  .URL {
 	 color: red ; 
 	 border: hidden;
@@ -52,7 +52,7 @@ h2 {color:black; text-align:center; font-weight:normal;}
 
 /* Image CSS Area*/
 
-/*Lindsay Google Map dimensions set to source resolution*/
+/* Option 2: Lindsay Google Map dimensions set to source resolution, resized based off of best image size to display/remove what is and isn't relevant*/
 
 #Lindsay{
 	height: 500px; 
