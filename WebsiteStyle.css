@@ -20,7 +20,7 @@ body {background-color:white;}
  }
  
 /*This CSS formats my Subheadings and Gives them stylish borders*/
-.subhead {colour:black;
+.subhead {color:black;
  border-style: hidden; 
  border-radius: 15px;
  background-color: #00bfff;
@@ -28,36 +28,36 @@ body {background-color:white;}
  width: 300px;
  }
  /* This CSS formats my second page subheadings, given a different class to allow quick edits without effecting the whole website*/
- .P2subhead {colour:black;
+ .P2subhead {color:black;
  border-style: hidden; 
  border-radius: 15px;
  background-color: #00bfff;
  padding-left: 15px;
  width: 300px;
- text-align: center:
+ text-align: center;
  }
 
 /*This CSS makes all my paragraphs conform to a certain width to keep it from looking weird*/
 p {width:500px;}
 
 /* This CSS gives my category titles standard characteristics to give my document order*/
-h2 {color:black; text-align:center; text-weight:normal;}
+h2 {color:black; text-align:center; text-weight:bold;}
 
 /* Image CSS Area*/
 
 /*Lindsay Google Map dimensions set to source resolution*/
 
 #Lindsay{
-	height=500px;
-	width=640px;
+	height: 500px; 
+	width: 640px; 
 }
 
 #Carleton{
-	height=840px;
-	width=840px;
+	height: 840px; 
+	width: 840px; 
 }
 
 #Fleming{
-	height=600px;
-	width=720px;
+	height: 600px; 
+	width: 720px; 
 }
