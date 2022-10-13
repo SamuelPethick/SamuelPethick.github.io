@@ -1,4 +1,3 @@
-
 body {background-color:white;}
 
 /*This CSS is to format my title*/
@@ -48,17 +47,17 @@ h2 {color:black; text-align:center; text-weight:normal;}
 
 /*Lindsay Google Map*/
 
-Lindsay{
+#Lindsay{
 	height=500px;
 	width=640px;
 }
 
-Carleton{
+#Carleton{
 	height=840px;
 	width=840px;
 }
 
-Castle{
+#Castle{
 	height=640px;
 	width=640px;
 }
