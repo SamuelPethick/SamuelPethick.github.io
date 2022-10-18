@@ -49,7 +49,10 @@ body {background-color:white;}
  }
 
 /*This CSS makes all my paragraphs conform to a certain width to keep it from looking weird*/
-p {width:500px;}
+p {width:500px;
+   color:black;
+   text-align:left
+ }
 
 /* This CSS gives my category titles standard characteristics to give my document order*/
 h2 {color:black; text-align:center; font-weight:normal;}
